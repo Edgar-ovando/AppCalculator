@@ -39,6 +39,7 @@ final class ViewController: UIViewController {
     private var operating = false
     private var decimal = false
     private var operation: OperationType = .none //Operacion actual
+    private var testvariable: Int?
     
     private let kDecimalSeparator = Locale.current.decimalSeparator!
     private let kMaxLength = 9
