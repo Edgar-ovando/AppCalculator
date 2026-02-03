@@ -1,6 +1,6 @@
 # 📱 Calculator App (UIKit)
 
-A simple calculator app built with **SWIFT**  **UIKit** in **Xcode**.  
+A simple calculator app built with **Swift**  **UIKit** in **Xcode**.  
 Supports basic arithmetic operations and a clean, user-friendly interface.
 
 ---
@@ -14,7 +14,7 @@ Supports basic arithmetic operations and a clean, user-friendly interface.
 
 ---
 ## 🛠️ Built With
-- Xcode  
+- Xcode  <img src="https://img.shields.io/badge/Xcode-13.0-blue?logo=xcode&logoColor=white" alt="Xcode Badge" />
 - Swift  
 - UIKit  
 - Auto Layout  
