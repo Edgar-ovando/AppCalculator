@@ -34,14 +34,15 @@ _Add your screenshots here_
 ---
 
 ## 📁 Project Structure
+```text
 Calculator/
 ├── Calculator.xcodeproj
 ├── Calculator/
-│ ├── AppDelegate.swift
-│ ├── SceneDelegate.swift
-│ ├── ViewController.swift
-│ ├── Main.storyboard
-│ └── Assets.xcassets
+│   ├── AppDelegate.swift
+│   ├── SceneDelegate.swift
+│   ├── ViewController.swift
+│   ├── Main.storyboard
+│   └── Assets.xcassets
 ├── README.md
 └── .gitignore
 
