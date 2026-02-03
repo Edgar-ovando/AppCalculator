@@ -14,10 +14,11 @@ Supports basic arithmetic operations and a clean, user-friendly interface.
 
 ---
 ## 🛠️ Built With
-- Xcode ![Xcode](https://img.shields.io/badge/Xcode-blue?logo=xcode&logoColor=white)
-- Swift  
-- UIKit  
-- Auto Layout  
+
+- ![Xcode](https://img.shields.io/badge/Xcode-blue?logo=xcode&logoColor=white) Xcode  
+- ![Swift](https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white) Swift  
+- ![UIKit](https://img.shields.io/badge/UIKit-000000?logo=apple&logoColor=white) UIKit  
+- ![Auto Layout](https://img.shields.io/badge/Auto%20Layout-007AFF?logo=apple&logoColor=white) Auto Layout  
 
 ---
 ## 📁 Project Structure
