@@ -4,6 +4,12 @@ A simple calculator app built with **Swift** ![Swift](https://img.shields.io/bad
 Supports basic arithmetic operations and a clean, user-friendly interface.
 
 ---
+# 📱 Calculator App (UIKit)
+
+A simple calculator app built with **Swift** ![Swift](https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white), **UIKit** ![UIKit](https://img.shields.io/badge/UIKit-000000?logo=apple&logoColor=white), and **Xcode** ![Xcode](https://img.shields.io/badge/Xcode-blue?logo=xcode&logoColor=white).  
+The app supports basic arithmetic operations and provides a clean, user-friendly interface.
+
+---
 ## 🚀 Features
 
 ✔️ Addition, Subtraction, Multiplication, Division  
