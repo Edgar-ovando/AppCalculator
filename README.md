@@ -14,13 +14,10 @@ Supports basic arithmetic operations and a clean, user-friendly interface.
 
 ---
 ## 🛠️ Built With
-
-
-| Technology | Logo |
-|-----------|------|
-| Swift | ![Swift Logo](./assets/swift.png) |
-| Xcode | ![Xcode Logo](./assets/xcode.png) |
-| UIKit | ![UIKit Logo](./assets/uikit.png) |
+- Xcode  
+- Swift  
+- UIKit  
+- Auto Layout  
 
 ---
 ## 📁 Project Structure
