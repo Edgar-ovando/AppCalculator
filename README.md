@@ -4,7 +4,6 @@ A simple calculator app built with **UIKit** in **Xcode**.
 Supports basic arithmetic operations and a clean, user-friendly interface.
 
 ---
-
 ## 🚀 Features
 
 ✔️ Addition, Subtraction, Multiplication, Division  
@@ -14,16 +13,6 @@ Supports basic arithmetic operations and a clean, user-friendly interface.
 ✔️ Handles basic input validation  
 
 ---
-
-## 🧩 Screenshots
-
-_Add your screenshots here_
-
-![Calculator Screenshot](./screenshots/screenshot1.png)  
-![Calculator Screenshot](./screenshots/screenshot2.png)
-
----
-
 ## 🛠️ Built With
 
 - **Xcode**  
@@ -32,7 +21,6 @@ _Add your screenshots here_
 - **Auto Layout**  
 
 ---
-
 ## 📁 Project Structure
 ```text
 Calculator/
@@ -45,4 +33,9 @@ Calculator/
 │   └── Assets.xcassets
 ├── README.md
 └── .gitignore
+```
+---
+## 🧩 Screenshots
+![Calculator Screenshot](./screenshots/screenshot1.png)  
+![Calculator Screenshot](./screenshots/screenshot2.png)
 
